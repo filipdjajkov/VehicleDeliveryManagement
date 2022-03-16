@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"si.feri.opj.djajkov","l":"Ambulanta"},{"p":"si.feri.opj.djajkov","l":"CepilniCenter"},{"p":"si.feri.opj.djajkov","l":"Cepivo"},{"p":"si.feri.opj.djajkov","l":"Kraj"},{"p":"si.feri.opj.djajkov","l":"PrevoznoSredstvo"},{"p":"si.feri.opj.djajkov","l":"Zagonski"}];updateSearchResults();

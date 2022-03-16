@@ -1,0 +1,73 @@
+2022-02-20 16:08:21.944662125|Application started
+2022-02-20 16:08:24.470031951|DEFAULT: Switched to screen Centers
+2022-02-20 16:08:50.721626087|DEFAULT: Array Centers modified with New
+2022-02-20 16:08:50.721747105|DEFAULT: Switched to screen Centers
+2022-02-20 16:09:34.002524521|DEFAULT: Array Centers modified with New
+2022-02-20 16:09:34.003168131|DEFAULT: Switched to screen Centers
+2022-02-20 16:09:35.528505993|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:09:36.344726697|DEFAULT: Switched to screen Stores
+2022-02-20 16:09:59.316794515|DEFAULT: Array Stores modified with New
+2022-02-20 16:09:59.317179824|DEFAULT: Switched to screen Stores
+2022-02-20 16:10:17.315162262|DEFAULT: Array Stores modified with New
+2022-02-20 16:10:17.315576869|DEFAULT: Switched to screen Stores
+2022-02-20 16:10:18.423215359|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:10:18.950544805|DEFAULT: Switched to screen Cars
+2022-02-20 16:10:36.136954803|DEFAULT: Array Cars modified with New
+2022-02-20 16:10:36.137333917|DEFAULT: Switched to screen Cars
+2022-02-20 16:10:42.125856788|DEFAULT: Array Cars modified with Change
+2022-02-20 16:10:42.126235076|DEFAULT: Switched to screen Cars
+2022-02-20 16:10:43.652857826|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:10:44.577050879|DEFAULT: Switched to screen Vans
+2022-02-20 16:10:57.641637953|DEFAULT: Array Vans modified with New
+2022-02-20 16:10:57.641802414|DEFAULT: Switched to screen Vans
+2022-02-20 16:11:05.661496551|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:11:06.614492571|DEFAULT: Switched to screen Centers
+2022-02-20 16:11:09.940061148|DEFAULT: Switched to screen Products
+2022-02-20 16:11:24.724571442|DEFAULT: Array Products modified with New
+2022-02-20 16:11:24.724931185|DEFAULT: Switched to screen Products
+2022-02-20 16:11:26.047812969|DEFAULT: Switched to screen Centers
+2022-02-20 16:11:27.942916772|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:11:29.271127406|DEFAULT: Switched to screen Centers
+2022-02-20 16:11:32.186572803|DEFAULT: Switched to screen Products
+2022-02-20 16:11:33.678254300|DEFAULT: Switched to screen Centers
+2022-02-20 16:11:35.762401650|DEFAULT: Switched to screen Products
+2022-02-20 16:11:41.415930330|DEFAULT: Array Products modified with Change
+2022-02-20 16:11:41.416446232|DEFAULT: Switched to screen Products
+2022-02-20 16:11:47.183712952|DEFAULT: Array Products modified with Delete
+2022-02-20 16:11:47.184206189|DEFAULT: Switched to screen Products
+2022-02-20 16:11:48.123501628|DEFAULT: Switched to screen Centers
+2022-02-20 16:11:52.390057587|DEFAULT: Switched to screen Products
+2022-02-20 16:12:00.031136635|DEFAULT: Array Products modified with New
+2022-02-20 16:12:00.031612758|DEFAULT: Switched to screen Products
+2022-02-20 16:12:06.638269146|DEFAULT: Array Products modified with New
+2022-02-20 16:12:06.638749300|DEFAULT: Switched to screen Products
+2022-02-20 16:12:08.341419546|DEFAULT: Switched to screen Centers
+2022-02-20 16:12:16.846828552|DEFAULT: Switched to screen Centers
+2022-02-20 16:12:18.949169961|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:12:19.770361217|DEFAULT: Switched to screen Cars
+2022-02-20 16:12:22.944148693|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:12:24.220362388|DEFAULT: Switched to screen Stores
+2022-02-20 16:12:29.928688202|DEFAULT: Switched to screen Stores
+2022-02-20 16:12:31.548528730|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:12:32.859803507|DEFAULT: Switched to screen Cars
+2022-02-20 16:12:33.889846299|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:12:34.293890496|DEFAULT: Switched to screen Centers
+2022-02-20 16:12:35.991808379|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:12:36.411027772|DEFAULT: Switched to screen Cars
+2022-02-20 16:12:49.508809069|DEFAULT: Array Cars modified with Change
+2022-02-20 16:12:49.509129637|DEFAULT: Switched to screen Cars
+2022-02-20 16:12:50.655848037|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:12:51.438707981|DEFAULT: Switched to screen Centers
+2022-02-20 16:13:01.861155012|DEFAULT: Array Centers modified with Change
+2022-02-20 16:13:01.861576268|DEFAULT: Switched to screen Centers
+2022-02-20 16:13:07.499806261|DEFAULT: Switched to screen Dashboard
+2022-02-20 16:13:08.924632024|Application finished
+
+2022-02-20 18:33:45.143503853|Application started
+2022-02-20 18:33:45.210884553|DEFAULT: Object loaded from file Centers.gz
+2022-02-20 18:33:45.217213707|DEFAULT: Object loaded from file Stores.gz
+2022-02-20 18:33:45.225421139|DEFAULT: Object loaded from file Cars.gz
+2022-02-20 18:33:45.229824166|DEFAULT: Object loaded from file Vans.gz
+2022-02-20 18:34:06.386558251|DEFAULT: Switched to screen Centers
+2022-02-20 18:34:07.007905355|Application finished
+
